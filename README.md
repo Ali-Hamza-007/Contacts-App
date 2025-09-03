@@ -45,4 +45,4 @@ This project helped me deepen my understanding of:
 
 1. Clone this repository:  
    ```bash
-   Also Add windows file into your code , I have removed this .
+   Also Add windows folder into your code , I have removed this .
