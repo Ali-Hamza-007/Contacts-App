@@ -1,6 +1,6 @@
 # 🚀 Contacts App 📱
 
-I'm excited to share my latest project, **Contacts App** — a sleek and powerful mobile application built with **Flutter** 💻, designed to provide a seamless **contact management experience** 📈.
+I'm excited to share my latest project, **Contacts App** — a sleek and powerful mobile application built with **Flutter & Hive ** 💻, designed to provide a seamless **contact management experience** 📈.
 
 ---
 
@@ -44,4 +44,4 @@ This project helped me deepen my understanding of:
 
 1. Clone this repository:  
    ```bash
-   Also Add  file into your code , I have removed this .
+   Also Add windows file into your code , I have removed this .
