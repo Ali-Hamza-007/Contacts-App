@@ -37,6 +37,7 @@ This project helped me deepen my understanding of:
 
 ## 📸 Screenshots  
 
+![image_alt](https://github.com/Ali-Hamza-007/Contacts-App/blob/ac1d648caa682b6a9a8982f5df299e57e3ed0832/screenshot.png)
 
 ---
 
